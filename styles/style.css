@@ -1,0 +1,10 @@
+div {
+  background-color: chocolate;
+  padding: 15px 35px;
+}
+
+div h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
+}
