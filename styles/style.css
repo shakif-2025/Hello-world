@@ -1,10 +1,29 @@
 div {
-  background-color: chocolate;
+  background-color: rgba(30, 123, 210, 0.774);
   padding: 15px 35px;
+  margin-bottom: 15px;
 }
 
 div h1 {
   text-align: center;
   text-transform: uppercase;
   font-family: "Courier New", Courier, monospace;
+}
+
+#commit-code {
+  text-align: center;
+  background-color: coral;
+}
+
+#commit-code h3 {
+  font-size: 25px;
+}
+
+#commit-code ol {
+  list-style: none;
+}
+
+#commit-code ol li {
+  font-size: 20px;
+  background-color: aqua;
 }
